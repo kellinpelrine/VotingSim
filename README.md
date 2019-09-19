@@ -1,6 +1,6 @@
 # VotingSim
 
-Cameron Lees, Kellin Pelrine, Jordan Smith.
+Authors: Cameron Lees, Kellin Pelrine, Jordan Smith.
 
 
 Simulation showing the effects of different voting systems (first-past-the-post and instant runoff) on a tax and on welfare. 
